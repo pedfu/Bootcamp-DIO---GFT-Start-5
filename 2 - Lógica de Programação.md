@@ -71,6 +71,7 @@ Exemplo:
 
 notas_alunos é um exemplo de vetor.
 notas é um exemplo de matriz. Sua representação seria:
+
 | Pedro 	| 10 |
 | Maria 	| 2 |
 | José 		| 4 |
