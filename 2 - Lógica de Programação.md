@@ -62,6 +62,7 @@ Enquanto houver páginas em um livro, leiae passe para a próxima página.
 
 ### Vetores e matrizes
 **Vetor:** sequência de dados. Variável com uma sequência. Unidimensional.
+
 **Matriz:** é uma tabela organizada em linhas e colunas. Vetor bidimensional.
 
 Exemplo:
